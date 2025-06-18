@@ -9,3 +9,13 @@ library(readxl)
 library(smoothmest)
 library(VIM)
 library(plumber)
+
+
+
+a=lhghjkkpoiugyivhjnklkoihuvgjbn nkjhugfvgb 
+
+
+b=piuiyyiftugvhkjoiygyfcg bmjkj
+
+
+c=jhgcfxhjlkñññkhbkv 
